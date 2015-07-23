@@ -1,0 +1,12 @@
+{
+  type: "Point",
+  coordinates: [
+    121.357632, 31.226403
+  ],
+  properties: {
+    marker-size: "large",
+    marker-symbol: "office",
+    What: "第二届 CSS 中国开发者大会",
+    Address: "上海市长宁区金钟路999号A座2层 虹桥国际会议中心"
+  }
+}
